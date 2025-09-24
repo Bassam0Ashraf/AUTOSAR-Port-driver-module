@@ -314,7 +314,8 @@ This is an educational Advanced Embedded systems project for the EDGES Training 
 **Course**: Advanced Embedded Diploma  
 **Program**: EDGES Training Program  
 **IDE**: Code Composer Studio  
-**Language**: C
+**Language**: C        
+**Target Hardware**: TM4C series (TM4C123GH6PM) 
 
 ---
 
